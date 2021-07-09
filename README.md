@@ -1,4 +1,4 @@
-![Screenshot](tana.jpg)
+![Screenshot](tana2.jpg)
 
 Console.log("Hello World, I'm Johnnatan 👨🏻‍💻 !!! 👋 ") 
 
