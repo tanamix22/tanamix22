@@ -41,7 +41,7 @@ Software developer focused on frontend development (Javascript, React, Next, Vue
 + **PuroJecuto** as **Frontend**
     + <a href="https://github.com/Purojekuto-Capstone/purojekuto-client" target="_blank"><strong>Frontend</strong> Repository</a>
     + <a href="https://github.com/Purojekuto-Capstone/purojekuto-backend" target="_blank"><strong>Backend</strong> Repository</a>
-    + <a href="https://www.consultify.online/" target="_blank"><strong>Demo</strong></a>
+    + <a href="https://purojekuto-master.herokuapp.com/" target="_blank"><strong>Demo</strong></a>
     + <strong>Technologies:</strong> HTML | Css | Sass | Bootstrap | React | Next | Axios | 
     + <strong>Description:</strong> The final project in Platzi Master, developed by two frontend developers, three backend developers, and one data scientist.
 
