@@ -33,3 +33,38 @@ Software developer focused on frontend development (Javascript, React, Next, Vue
   <img src="https://img.shields.io/badge/Git%20-292e33?style=flat-square&logo=git&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GitHub%20-292e33?style=flat-square&logo=github&logoColor=white" />&nbsp;&nbsp;
 </p>
+
+<h2 align="center"> Recent Projects 🚀</h2>
+
+<p>I love to develop personal projects cause I want to improve my technical skills and learn new stuff in the process.</p>
+
++ **PuroJecuto** as **Frontend**
+    + <a href="https://github.com/Purojekuto-Capstone/purojekuto-client" target="_blank"><strong>Frontend</strong> Repository</a>
+    + <a href="https://github.com/Purojekuto-Capstone/purojekuto-backend" target="_blank"><strong>Backend</strong> Repository</a>
+    + <a href="https://www.consultify.online/" target="_blank"><strong>Demo</strong></a>
+    + <strong>Technologies:</strong> HTML | Css | Sass | Bootstrap | React | Next | Axios | 
+    + <strong>Description:</strong> The final project in Platzi Master, developed by two frontend developers, three backend developers, and one data scientist.
+
+</br>
+
++ **Ghibli Movie** as **Frontend**
+    + <a href="https://github.com/thomasnrggo/Ghibli-tracker-client" target="_blank"><strong>Frontend</strong> Repository</a>
+    + <a href="https://github.com/thomasnrggo/Ghibli-tracker-client target="_blank"><strong>Backend</strong> Repository</a>
+    + <a href="https://ghibli-tracker-client-git-main-thomasnrggo.vercel.app/" target="_blank"><strong>Demo</strong></a>
+    + <strong>Technologies:</strong> HTML | Css | Sass | Bootstrap | React | Next | Axios | 
+    + <strong>Description:</strong> Track and rate your favorite movies from Studio Ghibli.
+
+***
+
+<h2 align="center"> GitHub Stats 📊</h2>
+
+<div align="center">
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juansacdev&theme=dracula&count_private=true&hide=css,blade" alt="juansacdev's GitHub Stats">
+  </p>
+  </br>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=juansacdev&count_private=true&show_icons=true&line_height=27&theme=dracula" alt="juansacdev's GitHub Stats"/>
+  </p>
+</div>
+
