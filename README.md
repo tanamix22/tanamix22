@@ -6,6 +6,6 @@ Software developer focused on frontend development (Javascript, React, Next, Vue
 
 
 ```bash
-📫🤝🏻 Connect with Me
-You can find me on [LinkedIn](https://pip.pypa.io/en/stable/)  👩🏾‍💻
+## 📫🤝🏻 Connect with Me
+You can find me on [LinkedIn](https://www.linkedin.com/in/johnnatanreyes/)  👩🏾‍💻
 Send me an email: tanamix22@gmail.com
