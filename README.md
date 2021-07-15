@@ -1,6 +1,6 @@
 ![Screenshot](github.jpg)
 
-Console.log("Hello World, I'm Johnnatan 👨🏻‍💻 !!! 👋 ") 
+<h1 align="center">Console.log("Hello World, I'm Johnnatan 👨🏻‍💻 !!! 👋 ") </h1>
 
 Software developer focused on frontend development (Javascript, React, Next, Vue, Css, BosStrap, and more). I create awesome solutions that help make people's daily lives easier. I continuously pursue more skills and I share my knowledge a cross communities. I'm a self-taught person with great passion for learning and sharing knowledge. Always learning something new 🚀📚
 
