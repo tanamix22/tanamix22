@@ -17,6 +17,8 @@ Software developer focused on frontend development (Javascript, React, Next, Vue
   <a href="https://portafolio-qx8dlovy7-tanamix22.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Web%20site-green?style=for-the-badge&logo=buddy&logoColor=white" title="Jonnathan Reyes Garcia"/></a>
 </p>
 
+***
+
 <h2 align="center"> 🛠 Skills & Technologies 🧑‍💻</h2>
 
 <p>
