@@ -56,15 +56,4 @@ Software developer focused on frontend development (Javascript, React, Next, Vue
 
 ***
 
-<h2 align="center"> GitHub Stats 📊</h2>
-
-<div align="center">
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juansacdev&theme=dracula&count_private=true&hide=css,blade" alt="juansacdev's GitHub Stats">
-  </p>
-  </br>
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=juansacdev&count_private=true&show_icons=true&line_height=27&theme=dracula" alt="juansacdev's GitHub Stats"/>
-  </p>
-</div>
 
