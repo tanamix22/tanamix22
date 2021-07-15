@@ -4,11 +4,11 @@
 
 Software developer focused on frontend development (Javascript, React, Next, Vue, Css, BosStrap, and more). I create awesome solutions that help make people's daily lives easier. I continuously pursue more skills and I share my knowledge a cross communities. I'm a self-taught person with great passion for learning and sharing knowledge. Always learning something new 🚀📚
 
-
-<p>📫🤝🏻 Connect with Me</p>
-<p>You can find me on [LinkedIn](https://www.linkedin.com/in/johnnatanreyes)</p>
-<p>Send me an email: tanamix22@gmail.com</p>
-
+<ul>
+<li>📫🤝🏻 Connect with Me</li>
+<li>You can find me on <strong><a href="https://https://www.linkedin.com/in/johnnatanreyes" target="_blank">LinkedIn</a></strong></li>
+<li>Send me an email: <strong><a href="mailto:tanamix22@gmail.com?subject=Hola%20Jonathan">tanamix22@gmail.com</a></strong></li>
+</ul>
 
 <h2 align="center"> 🛠 Skills & Technologies 🧑‍💻</h2>
 
