@@ -49,7 +49,7 @@ Software developer focused on frontend development (Javascript, React, Next, Vue
 
 + **Ghibli Movie** as **Frontend**
     + <a href="https://github.com/thomasnrggo/Ghibli-tracker-client" target="_blank"><strong>Frontend</strong> Repository</a>
-    + <a href="https://github.com/thomasnrggo/Ghibli-tracker-client target="_blank"><strong>Backend</strong> Repository</a>
+    + <a href="https://github.com/thomasnrggo/Ghibli-tracker-client" target="_blank"><strong>Backend</strong> Repository</a>
     + <a href="https://ghibli-tracker-client-git-main-thomasnrggo.vercel.app/" target="_blank"><strong>Demo</strong></a>
     + <strong>Technologies:</strong> HTML | Css | Sass | Bootstrap | React | Next | Axios | 
     + <strong>Description:</strong> Track and rate your favorite movies from Studio Ghibli.
