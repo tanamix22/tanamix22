@@ -12,7 +12,7 @@ Software developer focused on frontend development (Javascript, React, Next, Vue
 
 <p align="center">
   <a https://twitter.com/JonnathanTana" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" title="Twitter @tanamix22" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/juansacdev" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn @juansacdev"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/johnnatanreyes/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn @johnnatanreyes/"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a https://platzi.com/p/tanamix22/" target="_blank"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" title="Platzi @tanamix22"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a https://portafolio-qx8dlovy7-tanamix22.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Web%20site-green?style=for-the-badge&logo=buddy&logoColor=white" title="Jonnathan Reyes Garcia"/></a>
 </p>
